@@ -3,6 +3,9 @@
 A complete notes application built with Flutter.  
 Includes essential features for a modern note-taking experience:
 
+![image](https://github.com/user-attachments/assets/cdea0f93-0317-4763-9d81-69ad1a5b0019)
+
+
 ### ✅ Features
 - Create, Read, Update, Delete (CRUD) operations  
 - Search functionality  
